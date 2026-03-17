@@ -1,11 +1,11 @@
-📊 RAG-Based Data Analyst System
-🎯 Objective
+## 📊 RAG-Based Data Analyst System
+## 🎯 Objective
 
 The objective of this project is to build a Retrieval-Augmented Generation (RAG) based system that can analyze structured CSV data and answer user queries in natural language.
 
 This system acts like a data analyst assistant, helping users extract insights such as trends, comparisons, and summaries without writing SQL or complex code.
 
-🚀 Approach
+## 🚀 Approach
 
 The system follows a RAG pipeline, combining retrieval and generation:
 
@@ -21,7 +21,7 @@ Retrieve relevant data based on user query
 
 Use an LLM to generate answers from retrieved context
 
-⚙️ End-to-End Workflow
+## ⚙️ End-to-End Workflow
 Step 1: Load Data
 
 Load CSV file using LangChain's CSVLoader
@@ -62,7 +62,7 @@ Pass context + query to LLM
 
 Generate final answer
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 
@@ -94,7 +94,7 @@ python app.py
 
 Which city has the highest sales?
 
-📊 Output
+## 📊 Output
 
 The system retrieves relevant data from the dataset and generates a natural language answer using the LLM.
 
