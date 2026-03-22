@@ -1,5 +1,5 @@
-## 📊 RAG-Based Data Analyst System
-## 🎯 Objective
+# 📊 RAG-Based Data Analyst System
+# 🎯 Objective
 
 The objective of this project is to build a Retrieval-Augmented Generation (RAG) based system that can analyze structured CSV data and answer user queries in natural language.
 
