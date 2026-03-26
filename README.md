@@ -5,6 +5,10 @@ The objective of this project is to build a Retrieval-Augmented Generation (RAG)
 
 This system acts like a data analyst assistant, helping users extract insights such as trends, comparisons, and summaries without writing SQL or complex code.
 
+# Ouptut Demo 
+<img width="46" height="35" alt="Screenshot 2026-03-26 203619" src="https://github.com/user-attachments/assets/43f46130-8a30-4865-822a-7f5f9eca4e64" />
+
+
 ## 🚀 Approach
 
 The system follows a RAG pipeline, combining retrieval and generation:
